@@ -1,0 +1,2 @@
+copy "C:\Users\richard may clarkson\CLionProjects\ember\cmake-build-debug\ember.exe" "C:\Users\richard may clarkson\CLionProjects\ember\ember-dbg.exe"
+copy "C:\Users\richard may clarkson\CLionProjects\ember\cmake-build-release\ember.exe" "C:\Users\richard may clarkson\CLionProjects\ember\ember-rel.exe"
